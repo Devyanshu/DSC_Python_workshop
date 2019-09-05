@@ -11,3 +11,6 @@
 - Write a generator that gives first n Fibonacci number.
 - Implement sets using dictionaries.
 - Write a decorator to print the time taken by a function.
+
+
+### Put your solutions as a .ipynb file of your name in the solutions directory.
