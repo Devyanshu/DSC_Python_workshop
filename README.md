@@ -13,4 +13,4 @@
 - Write a decorator to print the time taken by a function.
 
 
-### Put your solutions as a .ipynb file of your name in the solutions directory.
+Solutions to above questions can be found [here](https://github.com/Devyanshu/DSC_Python_workshop/blob/master/solutions/solutions.ipynb).
